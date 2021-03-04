@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yuxiaor.yfx.wukong",
+      "sha256_cert_fingerprints": [
+        "0A:0C:8B:9C:EC:6D:CA:C2:B8:0C:D5:AE:17:17:ED:F5:51:4B:5F:22:FE:06:48:66:FC:01:00:98:23:5B:72:E6"
+      ]
+    }
+  }
+]
